@@ -23,7 +23,7 @@ I didn't build the CNN classifier from the scratch. but from other's and did som
 
 The models were originally built for two-class classifiers, and I hoped to build a three-class classifier.
 
-After implement the original model, I found the result of MobileNet didn't match the result on the kaggle website.
+After implementing the original model, it was found that the results of MobileNet did not match the results on the kaggle website.
 <img src="images/Original_model_comparsion.png" width = "500" >
 
 Therefore, I chose to build the new model based on the first model, and modify something.
