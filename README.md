@@ -39,6 +39,7 @@ The final model was,
 
 ****Result****
 First result, is VGG16 with unbalance dataset a) Accuracy b) Loss c) Classification Report of test
+
 a) 
 <img src="images/3C_VGG16_unbalanced accuracy.png" style="background-color:white;" width = "250" >
 b) 
@@ -49,6 +50,7 @@ c)
 
 
 Second result, is VGG16 with balance dataset a) Accuracy b) Loss c) Classification Report of test
+
 a) 
 <img src="images/Accuracy.png" width = "250" >
 b) 
@@ -58,13 +60,14 @@ c)
 <img src="images/CM_txt.PNG"  width = "250" >
 
 Third result, is VGG16 with balance dataset with some parameters modification. a) Accuracy b) Loss c) Classification Report of test
+
 a) 
-<img src="images/3C_VGG16_unbalanced_Acc.png" width = "250" >
+<img src="images/3C_VGG16_Acc.png" width = "250" >
 b) 
-<img src="images/3C_VGG16_unbalanced_loss.png" width = "250" >
+<img src="images/3C_VGG16_loss.png" width = "250" >
 
 c) 
-<img src="images/3C_VGG16_unbalanced_RE.png"  width = "250" >
+<img src="images/3C_VGG16_RE.png"  width = "250" >
 
 
 
