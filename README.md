@@ -34,13 +34,13 @@ The concept was,
 
 The final model was,
 
-<img src="images/VGG16.png" width = "250" >
+<img src="images/VGG16.png" style="background-color:white;" width = "250" >
 
 
 ****Result****
 First result, is about VGG16 with unbalance dataset a) Accuracy b) Loss c) Classification Report of test
-a) <img src="images/3C_VGG16_unbalanced accuracy.png" width = "250" >
-b) <img src="images/3C_VGG16_unbalanced loss.png" width = "250" >
-c) <img src="imgage/3C_VGG16_unbalanced_cm_txt.png" width = "250" >
+a) <img src="images/3C_VGG16_unbalanced accuracy.png" style="background-color:white;" width = "250" >
+b) <img src="images/3C_VGG16_unbalanced loss.png" style="background-color:white;" width = "250" >
+c) <img src="images/3C_VGG16_unbalanced_cm_txt.png" style="background-color:white;" width = "250" >
 
 
