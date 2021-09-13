@@ -19,3 +19,11 @@ Second, Real and Fake human face dataset
 [C. Intelligence and K. Photography Lab, Department of Computer Science Yonsei University, “Real and fake face detection,”2019](https://www.kaggle.com/ciplab/real-and-fake-facedetection/metadata)
 
 
+I didn't build the CNN classifier from the scratch. but from other's and did some modification.
+
+The models were originally built for two-class classifiers, and I hoped to build a three-class classifier.
+
+After implement the original model, I found the result didn't match the result on the kaggle website.
+<img >
+
+
