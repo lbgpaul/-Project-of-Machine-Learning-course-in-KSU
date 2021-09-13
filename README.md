@@ -32,3 +32,6 @@ The concept was,
 <img src="images/concept.png" width = "500" >
 
 The final model was,
+<img src="images/VGG16.png" width = "500" >
+
+
