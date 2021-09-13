@@ -38,6 +38,7 @@ The final model was,
 
 
 ****Result****
+
 First result, is VGG16 with unbalance dataset a) Accuracy b) Loss c) Classification Report of test
 
 a) 
@@ -69,5 +70,10 @@ b)
 c) 
 <img src="images/3C_VGG16_RE.png"  width = "250" >
 
+**Comclusion**
+
+In this paper, we did not focus on deeper or newer information, but wider concept of CNN machine learning. About the two main purposes: First, we understand that balanced and unbalanced dataset will influence the test f1-score, due to the difference size of the sample in each classes. Second, for a new question, which is three categorical classification problem in this article, we cannot just built a model exactly the same as the existing model, but still need to change some parameters. After that, we can possible get a model that meets the minimum require, that might give us a brief first sight of a new problem. When we look for the same module, we should not look for similar data sets, but for similar problems. That is, for instance, in this article, if I want to seek for the models suitable for my project, we should find “multiple classification problems”, instead of finding model for “face binary classification problem”.
+
+To summarize, we did learn a lot of knowledge about machine learning, especially on CNN-based model, and got the answer for those questions, which are the purpose of this article.
 
 
