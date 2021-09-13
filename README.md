@@ -24,6 +24,6 @@ I didn't build the CNN classifier from the scratch. but from other's and did som
 The models were originally built for two-class classifiers, and I hoped to build a three-class classifier.
 
 After implement the original model, I found the result didn't match the result on the kaggle website.
-<img >
+<img src="images" width = "500" >
 
 
