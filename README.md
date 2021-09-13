@@ -41,6 +41,6 @@ The final model was,
 First result, is about VGG16 with unbalance dataset a) Accuracy b) Loss c) Classification Report of test
 a) <img src="images/3C_VGG16_unbalanced accuracy.png" width = "250" >
 b) <img src="images/3C_VGG16_unbalanced loss.png" width = "250" >
-c) <img src="3C_VGG16_unbalanced_cm_txt.png" width = "250" >
+c) <img src="imgage/3C_VGG16_unbalanced_cm_txt.png" width = "250" >
 
 
