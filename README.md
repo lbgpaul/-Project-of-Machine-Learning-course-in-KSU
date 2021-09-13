@@ -28,3 +28,7 @@ After implementing the original model, it was found that the results of MobileNe
 
 Therefore, I chose to build the new model based on the first model, and modify something.
 
+The concept was,
+<img src="images/concept.png" width = "500" >
+
+The final model was,
